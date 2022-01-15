@@ -1,6 +1,6 @@
 # Batata-bit
 Batata Bit is an actual active [page](https://bata-bit.netlify.app/ "page").
-This project is a clone page only for education propuses where I can improve my skills at :
+This project is a clone page only for education proposes where I can improve my skills at :
 - Mobile-first
 - BEM
 - Semantic HTML
