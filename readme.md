@@ -7,3 +7,4 @@ This project is a clone page only for education proposes where I can improve my 
 - Responsive Design
 
 > [deploy](https://angelostd.github.io/batata-bit__landing-page/ "deploy")
+[![](https://cdn5.f-cdn.com/files/download/160552799/Batatabit-Presentation.png)](https://cdn5.f-cdn.com/files/download/160552799/Batatabit-Presentation.png)
